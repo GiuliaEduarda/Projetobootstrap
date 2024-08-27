@@ -1,0 +1,9 @@
+
+*{   font-size: 15px;
+}
+
+@media (max-width: 768px) {
+    #wrap{
+        flex-wrap: wrap;
+    }
+}
